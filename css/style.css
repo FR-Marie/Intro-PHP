@@ -1,0 +1,43 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(202, 201, 201);
+}
+.navbar{
+    padding: 20px;
+    font-size: 25px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+.navbarLogo{
+    margin-left: 5%;
+    margin-right: 10%;
+}
+.nav-link:hover{
+    transform: scale(1.1);
+    color:  rgb(131, 48, 131);
+}
+.rechercher{
+    margin-right: 5%;
+}
+
+
+
+.exercices-PHP{
+    padding: 30px;
+    margin: 100px;
+    background-color:  rgb(131, 48, 131);
+    color: white;
+}
+h1{
+    text-align: center;
+    padding-bottom: 70px;
+}
+.alpha{
+    text-align: center;
+}
